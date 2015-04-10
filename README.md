@@ -37,6 +37,6 @@ at National Taichung University of Science and Technology.
 
 
 
-# 
+# Credits
 @ It is maintained by the creator, and great contributors: Simon Hung-Ming
 Chen, Kyle Kai-Ren Bai
