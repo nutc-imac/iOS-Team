@@ -28,7 +28,7 @@ at National Taichung University of Science and Technology.
 * [Code Style](https://github.com/imac-ios-team/iOS-objc-repos/blob/master/coding_style.md)
 
 ##SDK整合
-* [GAExample](https://github.com/imac-ios-team/GAExample.git) - Google Analytics Example
+* [GAExample](https://github.com/imac-ios-team/GAExample) - Google Analytics Example
 
 ##Testing
 
